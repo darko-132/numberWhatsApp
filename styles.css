@@ -1,0 +1,31 @@
+.container{
+    border: solid 2px black;
+    width: 95vw;
+    height: 97vh;
+    border-radius: 10px;
+}
+h2{
+    text-align: center;
+}
+.inputs{
+    margin-top: 5%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.ubi{
+    width: 30px;
+}
+.btn{
+    
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: 10px;
+}
+a{
+    margin: 5px 50px 5px 50px;
+    font-size:1.2em;
+    text-decoration: none;
+    color: #000;
+}
